@@ -21,8 +21,8 @@ Responsive Design
 ## Installation
 ### Clone the repository:
 
-git clone <repository-url>
-cd <repository-directory>
+git clone (repo-url from the git)
+cd (to the folder)
 
 ### Install dependencies:
 npm install
